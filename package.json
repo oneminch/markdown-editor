@@ -10,11 +10,12 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+    "execa": "latest",
     "svelte": "^3.37.0",
-    "vite": "^2.6.4",
-    "execa": "latest"
+    "vite": "^2.6.4"
   },
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "markdown-it": "^12.2.0"
   }
 }
