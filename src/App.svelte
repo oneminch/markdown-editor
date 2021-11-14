@@ -63,6 +63,7 @@
 
 	* {
 		transition: all 0.3s;
+		font-size: 1rem;
 	}
 
 	main {
