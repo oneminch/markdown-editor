@@ -1,6 +1,8 @@
-# Svelte + Vite
+# Svelte + Vite + Markdown-It Markdown Editor
 
-This template should help get you started developing with Svelte in Vite.
+[![Deploy to Surge](https://github.com/oneminch/markdown-editor/actions/workflows/deploy-to-surge.yml/badge.svg)](https://github.com/oneminch/markdown-editor/actions/workflows/deploy-to-surge.yml)
+
+Simple Markdown Editor built with Svelte + Markdown-It & Deployed to [Surge](https://surge.sh).
 
 ## Recommended IDE Setup
 
